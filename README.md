@@ -1,2 +1,1 @@
-# Le-Tuan-Kiet
-T2605E
+# t2605e-fpc
